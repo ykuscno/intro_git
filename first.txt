@@ -2,3 +2,4 @@ Gitの練習用
 後に削除する予定
 ・git add
 ・git commit
+・追加
